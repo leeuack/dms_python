@@ -1,7 +1,7 @@
 # DMS_Python
 A repository for Jupyter Notebook files including examples and exercises for DMS Python book.
-&nbsp;
-&nbsp;
+<br/>
+<br/>
 
 **Download**
 
